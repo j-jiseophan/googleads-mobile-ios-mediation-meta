@@ -44,8 +44,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "FBAudienceNetwork",
-      url: "https://developers.facebook.com/resources/FBAudienceNetwork-6.20.1.zip",
-      checksum: "7e6560c585a8f224643500e89e053b909793a266ec483384d4c98215f0e870e4"
+      url: "https://developers.facebook.com/resources/FBAudienceNetwork-6.21.0.zip",
+      checksum: "de44e20e5f3e45753487f2e03beea385253573e024a4f2f24e18adfab35eca53"
     ),
   ]
 )
